@@ -15,6 +15,7 @@ permalink: /phdthesis/
 
 <div>
   <h1>PhD thesis</h1>
+  <hr>
 </div>
 <div style="text-align: center;">
   <h2><span style="color: #0056b3;">Developing Computational Methods in Proximity Pharmacology for Enzyme Discovery, PROTAC Screening, and Conformational Space Exploration</span></h2>
