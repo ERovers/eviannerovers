@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-## Publications
+# Publications
 ---
 
 <span style="color: #0056b3;">**k-Nearest Neighbour Adaptive Sampling (kNN-AS), a Simple Tool to Efficiently Explore Conformational Space**</span>  
