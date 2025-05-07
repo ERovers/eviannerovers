@@ -9,6 +9,8 @@ Hi! I'm Evianne Rovers and welcome to my personal webspace. Recently, I graduate
 
 Recently, I started working at the Vector Institute in the group of Dr. Chris Maddison (link) as a Research Intern. I'm developing code to run energy calculations on solvent systems (e.g. protein in water bath) and to convert cartesian coordinates into internal coordinates and back using JAX. These functions will enable the evaluation of variational sampling techniques for modeling energy landscapes of small molecules, proteins, or complexes in solvent environments.
 
+Feel free to scope my [CV](/eviannerovers/cv), learn more about my [PhD thesis](/eviannerovers/phdthesis) work, take a look at my other [publications](/eviannerovers/publications) or try some of projects describe at my [github](/eviannerovers/projects).
+
 ## Personal background
 
 I graduated with distinction from Amsterdam University College, earning a B.Sc. in Liberal Arts and Sciences. My majors focussed on Biomedical Sciences, Pharmacology and Chemistry. During my PhD, I have played for UofT's Varsity Women's Field Hockey team and served as captain for 3 years. Further, I enjoy travelling and hiking/mountaineering, so I grab every opportunity to scale a mountain. 
