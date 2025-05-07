@@ -3,21 +3,30 @@ layout: default
 title: Evianne Rovers
 ---
 <style>
+.main-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
 .about-container {
   display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin-top: 1rem;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-top: 2rem;
 }
+
 .about-text {
   flex: 3;
   min-width: 250px;
   text-align: justify;
 }
+
 .about-image {
   flex: 2;
-  min-width: 100px;
+  min-width: 200px;
 }
+
 .about-image img {
   max-width: 100%;
   border-radius: 12px;
