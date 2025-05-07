@@ -13,24 +13,17 @@
     {% include head-custom.html %}
 
     <style>
-.header-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 1.5rem;
-  margin-bottom: 1rem;
-}
-
 .header-text {
-  flex-basis: 100%;
   text-align: center;
 }
 
-.header-image {
+.header-image-absolute {
+  position: absolute;
+  top: 1rem;
+  right: 1rem; /* or left: 1rem; to move it to the left */
   width: 100px;
   height: auto;
-  margin-top: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
 
 .header-buttons {
@@ -42,12 +35,10 @@
 }
 
 @media (max-width: 600px) {
-  .header-container {
-    flex-direction: column;
-  }
-
-  .header-image {
+  .header-image-absolute {
     width: 70px;
+    top: 0.5rem;
+    right: 0.5rem;
   }
 }
 </style>
@@ -57,21 +48,21 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     
     <section class="page-header" style="position: relative;">
-    <div class="header-container">
-      <img src="{{ '6BOY.png' | relative_url }}" alt="Header Image" class="header-image" />
+   <img src="{{ '6BOY.png' | relative_url }}" alt="Header Image" class="header-image-absolute" />
 
-      <div class="header-text">
-        <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-        <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      </div>
+    <div class="header-text">
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
     </div>
-      
+
+    <div class="header-buttons">
       <a href="/eviannerovers/" class="btn">About me</a>
       <a href="/eviannerovers/cv/" class="btn">CV</a>
       <a href="/eviannerovers/phdthesis/" class="btn">PhD Thesis</a>
       <a href="/eviannerovers/publications/" class="btn">Publications</a>
       <a href="/eviannerovers/projects/" class="btn">GitHub Repos</a>
       <a href="/eviannerovers/contact/" class="btn">Contact me</a>
+    </div>
     </section>
     
     <main id="content" class="main-content" role="main">
