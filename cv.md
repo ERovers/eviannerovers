@@ -29,7 +29,7 @@ Presented 7 talks and posters at key conferences.
 **B.Sc. of Science**  
 _Amsterdam University College, Amsterdam, The Netherlands — 2017 - 2020_  
 
-- **Graduated with honours (Cum Laude)**, GPA:3.88/4.0
+- **Graduated with honours (Cum Laude)**, GPA: 3.88/4.0
 - **Biomedical science major (Pre-med track)** with organic chemistry and pharmacology courses
 - **4th year thesis project (graded 9/10)**: Computational analysis of photoswitchable sildenafil analogs as phosphodiesterase 5 inhibitors
 
