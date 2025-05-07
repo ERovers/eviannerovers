@@ -26,7 +26,7 @@ Feel free to [Contact me](/eviannerovers/contact)
     </p>
   </div>
   <div style="flex: 2;">
-    <img src="profile.jpg" alt="" style="max-width: 100%; border-radius: 12px;">
+    <img src="profile.JPG" alt="" style="max-width: 100%; border-radius: 12px;">
   </div>
 </div>
 
