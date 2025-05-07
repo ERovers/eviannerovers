@@ -11,8 +11,8 @@ title: Evianne Rovers
 .about-container {
   display: flex;
   align-items: flex-start;
-  gap: 1rem;
-  margin-top: 1rem;
+  gap: 2rem;
+  margin-top: 2rem;
 }
 .about-text {
   flex: 3;
@@ -58,8 +58,8 @@ title: Evianne Rovers
   .about-container {
     display: flex;
     align-items: flex-start;
-    gap: 1rem;
-    margin-top: 1rem;
+    gap: 2rem;
+    margin-top: 2rem;
   }
 
   .about-image {
