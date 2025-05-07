@@ -8,7 +8,7 @@ permalink: /publications/
 ---
 
 <span style="color: #0056b3;">**k-Nearest Neighbour Adaptive Sampling (kNN-AS), a Simple Tool to Efficiently Explore Conformational Space**</span>  
-***E Rovers**, A Thudi, C Maddison, M Schapira*  
+***E Rovers**, A Thudi, CJ Maddison, M Schapira*  
 bioRxiv, 2025  
 [link to paper](https://doi.org/10.1101/2025.03.05.641673)
 
