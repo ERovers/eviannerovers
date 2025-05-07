@@ -8,20 +8,17 @@ title: Evianne Rovers
   margin: 0 auto;
   padding: 0 1rem;
 }
-
 .about-container {
   display: flex;
   align-items: flex-start;
   gap: 2rem;
   margin-top: 2rem;
 }
-
 .about-text {
   flex: 3;
   min-width: 250px;
   text-align: justify;
 }
-
 .about-image {
   flex: 2;
   min-width: 250px;
@@ -29,7 +26,6 @@ title: Evianne Rovers
   justify-content: center; 
   align-items: flex-start;
 }
-
 .about-image img {
   border-radius: 12px;
   width: auto; 
@@ -40,6 +36,44 @@ title: Evianne Rovers
   width: 100%;
   margin-top: 1rem;
   text-align: justify;
+}
+/* Responsive: stack on mobile */
+@media (max-width: 768px) {
+  .about-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .about-text {
+    order: 2;
+  }
+
+  .about-image {
+    order: 1;
+  }
+}
+
+/* Desktop: image left, text right */
+@media (min-width: 769px) {
+  .about-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+
+  .about-image {
+    flex: 1;
+    border-radius: 12px;
+    width: auto; 
+    height: 250px; 
+    max-width: 100%;  
+  }
+
+  .about-text {
+    flex: 2;
+  }
 }
 </style>
 
