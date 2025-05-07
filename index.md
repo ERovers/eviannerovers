@@ -4,6 +4,7 @@ title: Evianne Rovers
 ---
 <style>
 .main-content {
+  min_width: 850px;
   margin: 0 auto;
   padding: 0 1rem;
 }
