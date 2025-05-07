@@ -5,6 +5,7 @@ permalink: /projects/
 ---
 
 ## GitHub Projects
+---
 
 Here are a few of my public repositories:
 
