@@ -36,7 +36,7 @@ Hi! I'm Evianne Rovers and welcome to my personal webspace. Recently, I graduate
   </div>
 
   <div class="about-image">
-    <img src="profile.JPG" alt="" style="max-width: 100%; border-radius: 12px;">
+    <img src="profile.JPG" alt="" style="max-width: 80%; border-radius: 12px;">
   </div>
 </div>
 
