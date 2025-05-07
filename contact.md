@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PhD Thesis
-permalink: /projects/
+permalink: /contact/
 ---
 
 ## Contact me
