@@ -14,7 +14,7 @@ permalink: /phdthesis/
 
 
 <div>
-  <h1>PhD thesis</h1>
+  <h1>PhD Thesis</h1>
   <hr>
 </div>
 <div style="text-align: center;">
