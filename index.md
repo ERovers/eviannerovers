@@ -6,8 +6,8 @@ title: Evianne Rovers
 .about-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 2rem;
-  margin-top: 2rem;
+  gap: 1rem;
+  margin-top: 1rem;
 }
 .about-text {
   flex: 3;
@@ -19,11 +19,11 @@ title: Evianne Rovers
 }
 .about-image img {
   max-width: 100%;
-  border-radius: 2px;
+  border-radius: 12px;
 }
 .full-width-section {
   width: 100%;
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 </style>
 
@@ -36,7 +36,7 @@ Hi! I'm Evianne Rovers and welcome to my personal webspace. Recently, I graduate
   </div>
 
   <div class="about-image">
-    <img src="profile.JPG" alt="" style="max-width: 80%; border-radius: 2px;">
+    <img src="profile.JPG" alt="" style="max-width: 80%; border-radius: 12px;">
   </div>
 </div>
 
