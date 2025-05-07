@@ -12,6 +12,7 @@ title: Evianne Rovers
 .about-text {
   flex: 3;
   min-width: 250px;
+  text-align: justify;
 }
 .about-image {
   flex: 2;
@@ -24,6 +25,7 @@ title: Evianne Rovers
 .full-width-section {
   width: 100%;
   margin-top: 1rem;
+  text-align: justify;
 }
 </style>
 
