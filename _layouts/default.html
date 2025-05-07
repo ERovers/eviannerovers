@@ -18,6 +18,9 @@
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <div class="header-image">
+        <img src="{{ '/header-image.jpg' | relative_url }}" alt="Header Image" style="width: 100%; max-height: 300px; object-fit: cover;">
+      </div>
 
       <a href="/eviannerovers/" class="btn">About me</a>
       <a href="/eviannerovers/cv/" class="btn">CV</a>
