@@ -4,7 +4,7 @@ title: Evianne Rovers
 ---
 <style>
 .main-content {
-  width: 100%;
+  min_width: 850px;
   margin: 0 auto;
   padding: 0 1rem;
 }
@@ -54,7 +54,7 @@ title: Evianne Rovers
 }
 
 /* Desktop: image left, text right */
-@media (width: 100%;) {
+@media (max-width: 768px) {
   .about-container {
     display: flex;
     align-items: flex-start;
