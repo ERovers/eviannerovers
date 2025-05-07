@@ -25,6 +25,9 @@ title: Evianne Rovers
 .about-image {
   flex: 2;
   min-width: 200px;
+  display: flex;
+  justify-content: center; 
+  align-items: flex-start;
 }
 
 .about-image img {
