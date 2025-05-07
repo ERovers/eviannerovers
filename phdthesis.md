@@ -5,7 +5,9 @@ permalink: /phdthesis/
 ---
 
 # PhD Thesis
-## Developing Computational Methods in Proximity Pharmacology for Enzyme Discovery, PROTAC Screening, and Conformational Space Exploration
+<div style="text-align: center;">
+  <h2>Developing Computational Methods in Proximity Pharmacology for Enzyme Discovery, PROTAC Screening, and Conformational Space Exploration</h2>
+</div>
 
 **Abstract**
 
