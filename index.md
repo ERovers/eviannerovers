@@ -19,7 +19,7 @@ title: Evianne Rovers
 }
 .about-image img {
   max-width: 100%;
-  border-radius: 12px;
+  border-radius: 2px;
 }
 .full-width-section {
   width: 100%;
@@ -36,7 +36,7 @@ Hi! I'm Evianne Rovers and welcome to my personal webspace. Recently, I graduate
   </div>
 
   <div class="about-image">
-    <img src="profile.JPG" alt="" style="max-width: 80%; border-radius: 6px;">
+    <img src="profile.JPG" alt="" style="max-width: 80%; border-radius: 2px;">
   </div>
 </div>
 
