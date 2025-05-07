@@ -31,8 +31,10 @@ title: Evianne Rovers
 }
 
 .about-image img {
-  max-width: 100%;
   border-radius: 12px;
+  width: 100%;  /* Make sure the image takes up full width of its container */
+  height: 100%; /* Ensure the image stretches to match container height */
+  object-fit: cover; /* Maintain aspect ratio while filling the container */
 }
 .full-width-section {
   width: 100%;
