@@ -4,7 +4,14 @@ title: PhD Thesis
 permalink: /phdthesis/
 ---
 
-# PhD Thesis
+<style></style>
+.full-width-section {
+  width: 100%;
+  margin-top: 1rem;
+  text-align: justify;
+}
+</style>
+
 <div style="text-align: center;">
   <h2><span style="color: #0056b3;">Developing Computational Methods in Proximity Pharmacology for Enzyme Discovery, PROTAC Screening, and Conformational Space Exploration</span></h2>
 </div>
