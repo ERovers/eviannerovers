@@ -4,7 +4,7 @@ title: GitHub Repositories
 permalink: /projects/
 ---
 
-## GitHub Projects
+# GitHub Projects
 ---
 
 Here are a few of my public repositories:
