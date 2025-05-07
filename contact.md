@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PhD Thesis
+title: Contact me
 permalink: /contact/
 ---
 
