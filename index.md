@@ -47,7 +47,7 @@ title: Evianne Rovers
   <div class="about-text">
     <h1>About Me</h1>
     <p>
-Hi! I'm Evianne Rovers and welcome to my personal webspace. Recently, I graduated from University of Toronto with a PhD in Pharmacology. I have worked under the supervision of Dr. Matthieu Schapira at the Structural Genomics Consortium where I have developed computational approaches for proximity pharmacology (PROTACs and other related modalities). 
+Hi! I'm Evianne Rovers and welcome to my personal webspace. Recently, I graduated from University of Toronto with a PhD in Pharmacology (Computational Drug Discovery). I have worked under the supervision of Dr. Matthieu Schapira at the Structural Genomics Consortium where I have developed computational approaches for proximity pharmacology (PROTACs and other related modalities). 
     </p>
   </div>
 
