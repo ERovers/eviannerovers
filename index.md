@@ -16,12 +16,12 @@ title: Evianne Rovers
 }
 .about-text {
   flex: 3;
-  min-width: 250px;
+  min-width: 240px;
   text-align: justify;
 }
 .about-image {
   flex: 2;
-  min-width: 250px;
+  min-width: 240px;
   display: flex;
   justify-content: center; 
   align-items: flex-start;
@@ -29,7 +29,7 @@ title: Evianne Rovers
 .about-image img {
   border-radius: 12px;
   width: auto; 
-  height: 250px; 
+  height: 240px; 
   max-width: 100%;  
 }
 .full-width-section {
@@ -67,7 +67,7 @@ title: Evianne Rovers
     flex: 1;
     border-radius: 12px;
     width: auto; 
-    height: 250px; 
+    height: 240px; 
     max-width: 100%;  
   }
 
