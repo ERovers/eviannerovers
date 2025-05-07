@@ -103,7 +103,7 @@ Feel free to scope my <a href="/eviannerovers/cv" target="_blank">CV</a>, to lea
     
     <h2>Personal background</h2>
     <p>
-I graduated with distinction (Cum Laude) from Amsterdam University College, earning a B.Sc. in Liberal Arts and Sciences. My majors focussed on Biomedical Sciences, Pharmacology and Chemistry. During my PhD, I have played for UofT's Varsity Women's Field Hockey team and served as captain for 3 years. Further, I enjoy travelling and hiking/mountaineering, so I grab every opportunity to scale a mountain. 
+I graduated with distinction (Cum Laude) from Amsterdam University College, earning a B.Sc. in Liberal Arts and Sciences. My majors focussed on Biomedical Sciences, Pharmacology and Chemistry. During my PhD, I have played for UofT's Varsity Women's Field Hockey team and served as captain for 3 years. Furthermore, I enjoy travelling and hiking/mountaineering, so I grab every opportunity to scale a mountain. 
     </p>
     <p>
 Also, open to chat about science, collaboration, or interesting opportunities!
