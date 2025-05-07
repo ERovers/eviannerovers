@@ -4,7 +4,7 @@ title: Contact me
 permalink: /contact/
 ---
 
-## Contact me
+# Contact me
 ---
 
 If you'd like to get in touch, feel free to reach out via one of the following methods:
