@@ -27,6 +27,6 @@ permalink: /publications/
   [DOI](https://doi.org/10.1093/database/baac088)
 
 - **ProxyBind: A compendium of binding sites for proximity-induced pharmacology**  
-  ***E Rovers((, L Liu, M Schapira* Computational and Structural Biotechnology, 2022  
+  ***E Rovers**, L Liu, M Schapira* Computational and Structural Biotechnology, 2022  
   [DOI](https://doi.org/10.1016/j.csbj.2022.11.010)
 
