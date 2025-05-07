@@ -36,8 +36,8 @@ Recently, I started working at the Vector Institute in the group of Dr. Chris Ma
     <p>
 Feel free to scope my [CV](/eviannerovers/cv), learn more about my [PhD thesis](/eviannerovers/phdthesis) work, take a look at my other [publications](/eviannerovers/publications) or try some of projects described at my [github](/eviannerovers/projects).
     </p>
-    <p>
-    <h2>Personal background</h2>
+    
+    <h2>Personal background</h>
     <p>
 I graduated with distinction from Amsterdam University College, earning a B.Sc. in Liberal Arts and Sciences. My majors focussed on Biomedical Sciences, Pharmacology and Chemistry. During my PhD, I have played for UofT's Varsity Women's Field Hockey team and served as captain for 3 years. Further, I enjoy travelling and hiking/mountaineering, so I grab every opportunity to scale a mountain. 
     </p>
