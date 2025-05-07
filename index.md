@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Evianne Rovers
 ---
 
 # Welcome to My Site
