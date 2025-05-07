@@ -24,7 +24,7 @@ title: Evianne Rovers
 
 .about-image {
   flex: 2;
-  min-width: 200px;
+  min-width: 100px;
   display: flex;
   justify-content: center; 
   align-items: flex-start;
@@ -32,9 +32,9 @@ title: Evianne Rovers
 
 .about-image img {
   border-radius: 12px;
-  width: 100%;  /* Make sure the image takes up full width of its container */
-  height: 50%; /* Ensure the image stretches to match container height */
-  object-fit: cover; /* Maintain aspect ratio while filling the container */
+  width: auto; 
+  height: 150px; 
+  max-width: 100%;  
 }
 .full-width-section {
   width: 100%;
