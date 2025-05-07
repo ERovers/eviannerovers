@@ -45,7 +45,7 @@ Hi! I'm Evianne Rovers and welcome to my personal webspace. Recently, I graduate
 Recently, I started working at the Vector Institute in the group of Dr. Chris Maddison [(link)](https://www.cs.toronto.edu/~cmaddis/research.html) as a Research Intern. I'm developing code to run energy calculations on solvent systems (e.g. protein in water bath) and to convert cartesian coordinates into internal coordinates and back using JAX. These functions will enable the evaluation of variational sampling techniques for modeling energy landscapes of small molecules, proteins, or complexes in solvent environments.
     </p>
     <p>
-Feel free to scope my [CV](/eviannerovers/cv), learn more about my [PhD thesis](/eviannerovers/phdthesis) work, take a look at my other [publications](/eviannerovers/publications) or try some of projects described at my [github](/eviannerovers/projects).
+Feel free to scope my [CV](/eviannerovers/cv), learn more about my [PhD thesis](/eviannerovers/phdthesis) work, take a look at my other [publications](/eviannerovers/publications) or try some of projects described at my <a href="/eviannerovers/projects" target="_blank">gitHub</a>.
     </p>
     
     <h2>Personal background</h2>
