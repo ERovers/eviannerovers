@@ -39,7 +39,7 @@ _Amsterdam University College, Amsterdam, The Netherlands — 2017 - 2020_
 
 - **Topic 1:** Proximity pharmacology: screening of proximity pharmacology compounds (e.g. molecular glues, PROTACs, PHICs, DUBTAC, etc.) and modelling of ternary complexes induced by these compounds.
 - **Topic 2:** Developing tools to generate free energy landscapes of complex systems using adaptive sampling tools in molecular dynamics or variational sampling techniques.
-- **Topic 3:** _Future_ Hope to go to study and develop tools to design proteins using dynamics approaches, especially for peptide or antibody design.
+- **_Future_ Topic 3:** Hope to go to study and develop tools to design proteins using dynamics approaches, especially for peptide or antibody design.
 
 ---
 
