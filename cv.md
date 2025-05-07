@@ -59,9 +59,8 @@ _Amplitude Venture Capital, Toronto, Canada - (May 2024 - Aug 2024)_
 
 ## Publications
 
-Please see for full list: [Publications](/eviannerovers/publications)
-
-Or more up to date list on [Google Scholar](https://scholar.google.com/citations?user=B_ccEo4AAAAJ&hl=en)
+Please see for full list: [Publications](/eviannerovers/publications)  
+Or more up-to-date list on [Google Scholar](https://scholar.google.com/citations?user=B_ccEo4AAAAJ&hl=en)
 
 ---
 
