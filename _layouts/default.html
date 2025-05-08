@@ -12,46 +12,51 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
 
-  <style>
+<style>
 .page-header {
   display: flex;
-  justify-content: space-between;
+  justify-content: center; /* Ensure center alignment */
   align-items: center;
   flex-wrap: wrap;
   padding: 1rem;
+  gap: 2rem; /* Adds space between text and image */
 }
 
+/* Make sure the text block itself is centered */
 .header-content {
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
-  flex: 1;
+  flex: 0 1 auto; /* Prevent it from stretching unevenly */
 }
 
+/* Center the buttons */
 .header-buttons {
   margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
 }
 
-.header-buttons a {
-  margin: 0 0.25rem;
-}
-
+/* Position the image on the right */
 .header-image {
   width: 120px;
   height: auto;
-  margin-left: 2rem;
+  flex-shrink: 0; /* Prevent the image from affecting text centering */
 }
 
+/* Mobile: Stack everything vertically */
 @media (max-width: 700px) {
   .page-header {
     flex-direction: column;
   }
   .header-image {
-    margin: 1rem 0 0 0;
+    margin-top: 1rem;
   }
 }
-  </style>
+</style>
   </head>
   
   <body>
