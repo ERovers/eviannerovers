@@ -47,6 +47,7 @@ _Amsterdam University College, Amsterdam, The Netherlands — 2017 - 2020_
 
 **Research Intern**  
 _Vector Institute / Maddison lab / University of Toronto — Toronto, Canada (April 2025 – Present)_  
+- Developing code to convert cartesian coordinates to internal coordinates for solvated systems and to calculate energy using JAX jit compilation to increase efficiency.
 - Evaluating and developing sampling strategies, including but not limited to, MCMC, simulated annealing, and diffusion-based samplers to approximate the Boltzmann distribution of protein conformational spaces.
 - Analyzing Boltzmann-distributed free energy landscapes to study protein conformational changes, ligand interactions, and properties of protein–protein complexes.
 
