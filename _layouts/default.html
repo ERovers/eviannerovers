@@ -31,11 +31,22 @@
   height: auto;
 }
 
+.header-ghost {
+  grid-column: 1;
+  width: 120px;
+  height: 120px;
+  visibility: hidden; 
+}
+
 /* Responsive tweak */
 @media (max-width: 768px) {
   .page-header {
     grid-template-columns: 1fr;
     text-align: center;
+  }
+
+  .header-ghost {
+    display: none;
   }
 
   .header-image {
@@ -52,7 +63,7 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     
     <section class="page-header">
-      <div></div>
+      <div class="header-ghost"></div>
       <div class="header-content">
         <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
         <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
