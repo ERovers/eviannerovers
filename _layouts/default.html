@@ -12,7 +12,11 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
 
-    <style>
+<style>
+.page-header {
+  margin-bottom: 0;    
+  padding-bottom: 1rem; 
+}
 .header-text {
   text-align: center;
 }
@@ -36,8 +40,8 @@
 @media (max-width: 600px) {
   .header-image-absolute {
     width: 70px;
-    top: 0.5rem;
-    right: 0.5rem;
+    top: 1rem;
+    right: 1rem;
   }
 }
 </style>
