@@ -23,7 +23,7 @@ Presented 7 talks and posters at key conferences.
   - Evaluated predicted protein-protein complexes using mutational data and MD simulations to identify the most stable conformation.
 - **Machine learning applied to drug discovery projects**, for example:
   - Implemented a multi-agent reinforcement learning algorithm to sample PROTAC-induced ternary complex conformational space.
-  - Developed edge identification algorithm based on K-nearest neighbour graph to pick new states for advanced sampling.
+  - Developed edge identification algorithm based on K-nearest neighbour graph to pick new states for adaptive sampling.
   - Designed Convolutional Variational AutoEncoder (ConvVAE) to reduce the PROTAC conformational space using invariant data to visualize free energy landscape.
 
 **B.Sc. of Science**  
