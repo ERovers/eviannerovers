@@ -84,7 +84,7 @@ Or more up-to-date list on [Google Scholar](https://scholar.google.com/citations
 ## Technical Skills
 
 - Python
-  - PyTorch, Jax, SciPy, RDKit, Numpy, Pandas
+  - PyTorch, JAX, SciPy, RDKit, Numpy, Pandas
 - Deep learning, reinforcement learning, variational autoencoders
 - Protein structural analysis e.g. predicting ligandability, binding site interactions, and protein domains
 - Fragment/small molecule/PROTAC screening and optimization
