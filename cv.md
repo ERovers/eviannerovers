@@ -12,7 +12,7 @@ permalink: /cv/
 
 **Ph.D. in Pharmacology (Computational Drug Discovery)**  
 _University of Toronto, Toronto, Canada — 2020 - 2025_  
-Dissertation: *“Developing Computational Methods in Proximity Pharmacology for Enzyme Discovery, PROTAC Screening, and Conformational Space Exploration”*
+*“Developing Computational Methods in Proximity Pharmacology for Enzyme Discovery, PROTAC Screening, and Conformational Space Exploration”*
 
 - **Five publications** on method and database development and one publications in pre-print.
 Presented 7 talks and posters at key conferences.
