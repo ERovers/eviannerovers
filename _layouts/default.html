@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
 
-<style>
+  <style>
 .page-header {
   display: flex;
   justify-content: space-between;
@@ -22,13 +22,11 @@
 }
 
 .header-content {
-  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
-}
-
-.header-content h1,
-.header-content h2 {
-  margin: 0.5rem 0;
+  flex: 1;
 }
 
 .header-buttons {
@@ -42,8 +40,18 @@
 .header-image {
   width: 120px;
   height: auto;
+  margin-left: 2rem;
 }
-</style>
+
+@media (max-width: 700px) {
+  .page-header {
+    flex-direction: column;
+  }
+  .header-image {
+    margin: 1rem 0 0 0;
+  }
+}
+  </style>
   </head>
   
   <body>
