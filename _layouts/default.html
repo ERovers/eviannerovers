@@ -12,33 +12,36 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
 
-    <style>
-.header-text {
+<style>
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 1rem;
+}
+
+.header-content {
+  flex: 1;
   text-align: center;
 }
 
-.header-image-absolute {
-  position: absolute;
-  top: 5rem;
-  right: 18rem; 
-  width: 200px;
-  height: auto;
+.header-content h1,
+.header-content h2 {
+  margin: 0.5rem 0;
 }
 
 .header-buttons {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.6rem;
   margin-top: 1rem;
 }
 
-@media (max-width: 600px) {
-  .header-image-absolute {
-    width: 70px;
-    top: 0.5rem;
-    right: 0.5rem;
-  }
+.header-buttons a {
+  margin: 0 0.25rem;
+}
+
+.header-image {
+  width: 120px;
+  height: auto;
 }
 </style>
   </head>
@@ -46,22 +49,21 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     
-    <section class="page-header" style="position: relative;">
-   <img src="{{ '6BOY.png' | relative_url }}" alt="Header Image" class="header-image-absolute" />
+    <section class="page-header">
+      <div class="header-content">
+        <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-    <div class="header-text">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-    </div>
-
-    <div class="header-buttons">
-      <a href="/eviannerovers/" class="btn">About me</a>
-      <a href="/eviannerovers/cv/" class="btn">CV</a>
-      <a href="/eviannerovers/phdthesis/" class="btn">PhD Thesis</a>
-      <a href="/eviannerovers/publications/" class="btn">Publications</a>
-      <a href="/eviannerovers/projects/" class="btn">GitHub Repos</a>
-      <a href="/eviannerovers/contact/" class="btn">Contact me</a>
-    </div>
+        <div class="header-buttons">
+          <a href="/eviannerovers/" class="btn">About me</a>
+          <a href="/eviannerovers/cv/" class="btn">CV</a>
+          <a href="/eviannerovers/phdthesis/" class="btn">PhD Thesis</a>
+          <a href="/eviannerovers/publications/" class="btn">Publications</a>
+          <a href="/eviannerovers/projects/" class="btn">GitHub Repos</a>
+          <a href="/eviannerovers/contact/" class="btn">Contact me</a>
+        </div>
+      </div>
+      <img src="{{ '6BOY.png' | relative_url }}" alt="Header Image" class="header-image">
     </section>
     
     <main id="content" class="main-content" role="main">
