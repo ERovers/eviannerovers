@@ -74,7 +74,7 @@ Or more up-to-date list on [Google Scholar](https://scholar.google.com/citations
 - Awarded $62,000 in computing resources for the research project that will evaluate the free energy landscape of PROTAC-induced ternary complexes using MD simulation which are accelerated with developed advanced sampling methods and variational autoencoders to reduce dimension of search space.
 
 **MITACS accelerate** — _2022 - 2024_
-- Awarded $75,000 for 'Genes to affordable medicines' project to cover expenses, which support the direct costs of research.
+- Awarded $75,000 for 'Genes to affordable medicines' project to cover expenses which support the direct costs of research.
 
 **University of Toronto Fellowship** — _2020 - 2024_
 - Awarded a fellowship of $2000 annually ($5000 for first year) for recognition of excellent academic achievement.
