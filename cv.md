@@ -14,7 +14,7 @@ permalink: /cv/
 _University of Toronto, Toronto, Canada — 2020 - 2025_  
 Dissertation: *“Developing Computational Methods in Proximity Pharmacology for Enzyme Discovery, PROTAC Screening, and Conformational Space Exploration”*
 
-- **Four publications** on method and database development and two publications in pre-print.
+- **Five publications** on method and database development and one publications in pre-print.
 Presented 7 talks and posters at key conferences.
 - **A+ grades in world-leading post-graduate machine and deep-learning courses** at the University of Toronto, taught by Jimmy Ba and Bo Wang (CSC2515, CSC2516).
 - **Performed computational structural analysis for four ongoing target specific collaborations** to better understand mechanism of action. For example:
