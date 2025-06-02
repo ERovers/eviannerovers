@@ -2,6 +2,20 @@
 layout: default
 title: Evianne Rovers
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Evianne Rovers",
+  "url": "https://erovers.github.io/eviannerovers/",
+  "sameAs": [
+    "https://erovers.github.io/eviannerovers/",
+    "https://www.linkedin.com/in/evianne-rovers-07b665207/"
+  ]
+}
+</script>
+
 <style>
 .main-content {
   max-width: 900px;
